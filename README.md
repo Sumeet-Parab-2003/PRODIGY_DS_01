@@ -2,7 +2,7 @@
 Prodigy InfoTech Data Science internship task no. 1.
 ![Task 1](https://github.com/Sumeet-Parab-2003/PRODIGY_DS_01/assets/112553074/28943202-312c-4aff-b968-e71d5bf800fb)
 <br></br>
-## Bar Chart for Ccounry code vs Income group
+## Bar Chart for Counry code vs Income group
 ![Screenshot 2024-07-06 132605](https://github.com/Sumeet-Parab-2003/PRODIGY_DS_01/assets/112553074/4c81cc48-73ad-4c62-9a8f-6e58aa19cce4)
 
 
